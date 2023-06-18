@@ -1,0 +1,5 @@
+estados,0,1
+q0,"qf1,qf2",qf1
+q1,qf2,q0
+qf1,q1,"qf1,q1"
+qf2,%,q0

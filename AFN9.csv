@@ -1,0 +1,7 @@
+estados,a,b
+qf0,"q4,q2",%
+q2,qf1,%
+q4,q5,%
+q5,qf3,%
+qf1,q2,%
+qf3,q4,%
